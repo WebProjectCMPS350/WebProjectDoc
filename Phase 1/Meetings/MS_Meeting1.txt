@@ -20,4 +20,5 @@ $2 Problems That We'll Ask the Doctor About It:
 " IV. Application design documentation should include the Entities, Repositories and Web API
 class diagrams. "
 
-$3 After we asked the doctor these three questions, we will discuss the distribution of the project tasks, and the time for each time (Project Management).
+$3 We will ask he doctor these three ques in Thursday in Office Hours (12:30pm - 18:00pm), Fahad Will ask about the third question tomorrow.
+$4 After we asked the doctor these three questions, we will discuss the distribution of the project tasks, and the time for each time (Project Management).
