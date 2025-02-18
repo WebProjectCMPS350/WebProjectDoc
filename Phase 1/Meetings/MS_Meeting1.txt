@@ -1,0 +1,23 @@
+MS Teams: Meeting 1
+2025/02/18
+Tuesday
+---------------------------------------------------------------------------
+
+$1 In the First Meeting we discussed that we should go through 2 stages:
+
+1- Design:
+	To design the project using UML diagrams, then Figma tool.
+2- Implement
+	To implement the project using HTML, CSS, and JS.
+
+$2 Problems That We'll Ask the Doctor About It:
+
+1- We don't know yet whether we should add a third stage "Deploy" that deploys the website and create a domain to it, We will ask the doctor about it. If the answer is yes, we must remove the WebProjectWebsite repo from the WebProjectCMPS350 Organization and transfer it to a personal repo.
+
+2- We don't know which UML diagram we should implement, all of them? Or just the class diagram?
+
+3- There is a statement in the project description that we didn't understand which is:
+" IV. Application design documentation should include the Entities, Repositories and Web API
+class diagrams. "
+
+$3 After we asked the doctor these three questions, we will discuss the distribution of the project tasks, and the time for each time (Project Management).
