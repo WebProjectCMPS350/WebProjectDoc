@@ -1,0 +1,9 @@
+2025/04/03
+Thursday 
+
+
+In meeting 3 we discussed why the project stopped, we reach to:
+
+The project stopped do to a problem that faced Mohammed Abdullah that he cannot connect the frontend with the backend.
+
+The solution is to assign Ibrahim an Mohammed to figure out the solution, while Ibrahim will build the website GUI.
